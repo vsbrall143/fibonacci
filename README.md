@@ -15,7 +15,7 @@ void main()
     }
 }
 
-void fab(n)
+int fab(n)
 {
     if (n == 0)
         return 0;
